@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=d3,p5js,jupyter,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=d3,p5js,figma,vscode&theme=light" />
 </p>
 
 <!-- <p align="center">
