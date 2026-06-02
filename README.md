@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning: Data Analysis & Storytelling
 - 👩🏻‍🎓 Studied BSc Creative Computing at the Creative Computing Institute (UAL) in London
 
-## Toolset
+### Toolset
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,tailwind,js,py,r,arduino&theme=light" />
 </p>
