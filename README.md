@@ -10,7 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,numpy,d3,p5js,jupyter,figma,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=d3,p5js,jupyter,figma,vscode&theme=light" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
 
